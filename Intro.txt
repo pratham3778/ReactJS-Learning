@@ -1,0 +1,25 @@
+Website -> Html -> Css -> Js(UI CONTROL) -> React/Angular/VueJS 
+
+CSS -> External CSS(seprate css file) / internal CSS(inside style) / inline CSS(inside tag attribute)
+React best use is inline CSS
+// React is a JavaScript library for building user interfaces
+
+REACT -> JS -> Library
+ANGULAR -> JS -> Framework
+
+JavaScript Issues / React Pros:
+1 - Maintenance
+2 - Scalablity
+3 - Team Collabration
+4 - Code Security
+
+NodeJS -> compiler(machine lang)
+HTML -> Tag/Attribute
+CSS -> property/value
+REACT -> Component based Library
+
+export -> send
+import -> receive
+
+JSX -> JavaScript XML(Extensible markup lang)
+syntax : <xml> </xml>
