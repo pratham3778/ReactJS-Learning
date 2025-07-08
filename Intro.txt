@@ -17,6 +17,8 @@ NodeJS -> compiler(machine lang)
 HTML -> Tag/Attribute
 CSS -> property/value
 REACT -> Component based Library
+ - external file of js, externally created in react js
+ - component contains markup<></> and js code
 
 export -> send
 import -> receive
@@ -24,4 +26,5 @@ import -> receive
 JSX -> JavaScript XML(Extensible markup lang)
 syntax : <xml> </xml>
 
-react proj start -> npx create-react-app my-app
+React proj start -> npx create-react-app my-app
+Runs on localhost:3000

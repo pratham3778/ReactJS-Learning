@@ -1,0 +1,6 @@
+- Library defination with version
+- downloaded library defination with version (can add external dependencies/libraries)
+- app info(name, version)
+- project share
+- library added in dependencies -> source code is present in node modules
+- if we share proj to other person , we share it without node module(because heavy files) , we can add node module by making sure package json is shared and do npm install
