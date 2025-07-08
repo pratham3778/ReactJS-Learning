@@ -23,3 +23,5 @@ import -> receive
 
 JSX -> JavaScript XML(Extensible markup lang)
 syntax : <xml> </xml>
+
+react proj start -> npx create-react-app my-app
