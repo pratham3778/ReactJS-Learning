@@ -26,5 +26,6 @@ import -> receive
 JSX -> JavaScript XML(Extensible markup lang)
 syntax : <xml> </xml>
 
-React proj start -> npx create-react-app my-app
+React proj start using CLI tool -> npx create-react-app my-app
 Runs on localhost:3000
+use npm install / npm i - to make node module avaliable if the project is shared from someelse using zip

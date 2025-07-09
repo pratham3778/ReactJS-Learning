@@ -1,0 +1,13 @@
+- To divide user interface in react we have to create component
+- component first latter capital(convention)
+- give extension as .jsx to make it show that we have created it and not react(which comes in by default .js extension). 
+- Basically it shows user defined component
+- JSX : Javascript xml(xtensible markup lang)
+- built-in component(.js)
+- User Defined Component(.jsx)
+
+Benefits of JSX
+- UI and Dynamic code in 1 file
+- supports jsx expression"{}" for dynamic coding inside markup or UI
+- it indicates user defined component
+
