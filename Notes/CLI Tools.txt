@@ -1,0 +1,4 @@
+2 Types of CLI Tool to work with react project : 
+
+create-react-app 
+vite
